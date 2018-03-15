@@ -1,0 +1,2 @@
+# autoadds
+admob autoadds impessin
